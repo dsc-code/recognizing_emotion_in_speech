@@ -43,7 +43,7 @@ This project consists of the jupyter notebooks and several folders.
  - The following files are produced by Part_2 and used in Part_3; however,
  due to their large size, a preproduced version is not included in the
  package. The Part_2 notebook will have to be run to produce this file.
- - - dataframes_and_dictionaries/trimmed_audio_dict.pkl
+  - dataframes_and_dictionaries/trimmed_audio_dict.pkl
 
 **SER_Part_3-Feature_Extraction**
 - This notebook uses the audio5.yml environment to extract the various
@@ -51,20 +51,20 @@ This project consists of the jupyter notebooks and several folders.
  the saved files from the previous notebook out of the
  data_and_dictionaries/ folder. This book saves multiple files. The
  following files are included in this package:
- - extracted_features_for_modeling/y_train_pickled.pkl
- - extracted_features_for_modeling/y_test_pickled.pkl
- - dataframes_and_dictionaries/target_var_dict.pkl
- - extracted_features_for_modeling/X_test_DNN.npy
- - extracted_features_for_modeling/X_train_DNN.npy
+  - extracted_features_for_modeling/y_train_pickled.pkl
+  - extracted_features_for_modeling/y_test_pickled.pkl
+  - dataframes_and_dictionaries/target_var_dict.pkl
+  - extracted_features_for_modeling/X_test_DNN.npy
+  - extracted_features_for_modeling/X_train_DNN.npy
 
  The following files are produced by Part_3 and used in Part_4; however,
  due to their large size, a preproduced version is not included in the
  package. The Part_3 notebook will have to be run to produce these files:
- - dataframes_and_dictionaries/trimmed_audio_dict.pkl
- - extracted_features_for_modeling/X_train_1D_CNN.npy
- - extracted_features_for_modeling/X_test_1D_CNN.npy
- - extracted_features_for_modeling/X_train_1D_8k_CNN.npy
- - extracted_features_for_modeling/X_test_1D_8k_CNN.npy
+  - dataframes_and_dictionaries/trimmed_audio_dict.pkl
+  - extracted_features_for_modeling/X_train_1D_CNN.npy
+  - extracted_features_for_modeling/X_test_1D_CNN.npy
+  - extracted_features_for_modeling/X_train_1D_8k_CNN.npy
+  - extracted_features_for_modeling/X_test_1D_8k_CNN.npy
 
 
 **SER_Part_4_Modeling**
@@ -78,14 +78,14 @@ This project consists of the jupyter notebooks and several folders.
 - This folder contains the two yml files for setting up the environments
  necessary to run the jupyter notebooks, as well requirements.txt files
  for the same environments:
- - environments_and_requirements/audio5.yml
- - environments_and_requirements/audio5_requirements.txt
- - environments_and_requirements/deeplearning.yml
- - environments_and_requirements/deeplearning_requirements.txt
+  - environments_and_requirements/audio5.yml
+  - environments_and_requirements/audio5_requirements.txt
+  - environments_and_requirements/deeplearning.yml
+  - environments_and_requirements/deeplearning_requirements.txt
 
 **'models/' folder:**
 - This folder contains the final model:
- - models/best_SER_model.pkl
+  - models/best_SER_model.pkl
 
 **'raw_data'/ folder:**
 - When running the notebooks, the raw data should be placed in this folder
@@ -107,7 +107,7 @@ This project consists of the jupyter notebooks and several folders.
  - dataframes_and_dictionaries/target_var_dict.pkl
 
 **Report:**
-- This package includes final report as
+This package includes the final report as
  'SER_Capstone - BrainStation - Daniel Curtis.pdf'
 
 ### DATA:
