@@ -38,12 +38,12 @@ This project consists of the jupyter notebooks and several folders.
  saves the resulting dataframe and dictionary in the
  dataframes_and_dictionaries folder to use in the subsequent parts of
  the project. These saved files include:
- - dataframes_and_dictionaries/concatenated_observations.pkl
+ - - dataframes_and_dictionaries/concatenated_observations.pkl
 
- The following files are produced by Part_2 and used in Part_3; however,
+ - The following files are produced by Part_2 and used in Part_3; however,
  due to their large size, a preproduced version is not included in the
  package. The Part_2 notebook will have to be run to produce this file.
- - dataframes_and_dictionaries/trimmed_audio_dict.pkl
+ - - dataframes_and_dictionaries/trimmed_audio_dict.pkl
 
 **SER_Part_3-Feature_Extraction**
 - This notebook uses the audio5.yml environment to extract the various
