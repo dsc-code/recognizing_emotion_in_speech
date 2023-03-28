@@ -38,7 +38,7 @@ This project consists of the jupyter notebooks and several folders.
  saves the resulting dataframe and dictionary in the
  dataframes_and_dictionaries folder to use in the subsequent parts of
  the project. These saved files include:
- - - dataframes_and_dictionaries/concatenated_observations.pkl
+  - dataframes_and_dictionaries/concatenated_observations.pkl
 
  - The following files are produced by Part_2 and used in Part_3; however,
  due to their large size, a preproduced version is not included in the
