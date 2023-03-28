@@ -107,11 +107,12 @@ This project consists of the jupyter notebooks and several folders.
  - dataframes_and_dictionaries/target_var_dict.pkl
 
 **Report:**
+
 This package includes the final report as
  'SER_Capstone - BrainStation - Daniel Curtis.pdf'
 
 ### DATA:
-- This project uses two datasets:
+This project uses two datasets:
 
 **RAVDESS:** The Ryerson Audio-Visual Database of Emotional Speech and Song
 - Use citation, academic paper and file download:
