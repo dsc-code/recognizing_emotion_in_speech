@@ -1,6 +1,6 @@
 # Recognizing Emotion in Speech
-BrainStation Data Science Capstone Project
-Submitted by Daniel Curtis, February 13th, 2022
+- BrainStation Data Science Capstone Project
+- Submitted by Daniel Curtis, February 13th, 2022
 
 ## EXECUTIVE SUMMARY:
 
@@ -31,12 +31,12 @@ This project consists of the jupyter notebooks and several folders.
  is, how it is stored digitally and how it can be visualized.
 
 **SER_Part_2-Investigating_datasets**
-- This notebook also uses the audio.yml environment. It loads and clean
+- This notebook also uses the audio5.yml environment. It loads, cleans
  and concatenates the RAVDESS and CREME-D datasets. It then performs
  EDA to explore to the data. It also creates a dictionary of trimmed
- audio files used in the project and their sample rates. Finally, it
+ audio files and their sample rates. Finally, it
  saves the resulting dataframe and dictionary in the
- dataframes_and_dictionaries folder to use in the subsequent parts of
+ dataframes_and_dictionaries folder for use in the subsequent parts of
  the project. These saved files include:
   - dataframes_and_dictionaries/concatenated_observations.pkl
 
@@ -47,7 +47,7 @@ This project consists of the jupyter notebooks and several folders.
 
 **SER_Part_3-Feature_Extraction**
 - This notebook uses the audio5.yml environment to extract the various
- features used in the modeling process in Part_4. This notebook imports
+ features that will be used in the modeling process in Part_4. This notebook imports
  the saved files from the previous notebook out of the
  data_and_dictionaries/ folder. This book saves multiple files. The
  following files are included in this package:
